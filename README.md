@@ -6,7 +6,7 @@
 
 Clone this repository
 
-```{bash}
+```bash
 git clone https://github.com/KodeUniverse/senior-design-crypto-trading.git
 cd senior-design-crypto-trading
 ```
@@ -16,7 +16,7 @@ To use the models, unzip the datafiles located in the <b>market-data</b> folder,
 
 Example (for LSTM):
 
-```{bash}
+```bash
 #change dir into LSTM folder
 cd senior-design-crypto-trading/LSTM
 #create data folder
