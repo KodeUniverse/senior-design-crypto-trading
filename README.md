@@ -1,7 +1,9 @@
 # Deep Learning Algorithmic Crypto Backtesting
 ### Senior Design Project 2022-2023
 
-
+<div style="text-align:center;">
+<img src="images/poster.png">
+</div>
 ## Installation
 
 Clone this repository
