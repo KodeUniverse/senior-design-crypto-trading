@@ -5,6 +5,14 @@
 <img src="images/poster.png">
 </div>
 
+## Introduction
+
+We implement four deep learning models to backtest on millisecond-level cryptocurrency historical CBSE data. This repo contains the code for the Long Short-Term Memory model and Multilayer Perceptron.
+
+Code for the Proximal Policy Optimzation Deep Reinforcement Learning model can be found here: https://github.com/KodeUniverse/Deep-RL-Crypto
+
+WIP: Need to add code for Logistic Regression
+
 
 ## Installation
 
